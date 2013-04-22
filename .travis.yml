@@ -1,5 +1,5 @@
 ---
 script: "./script/cibuild"
-gemfile: "Gemfile"
+gemfile: "this/does/not/exist"
 rvm:
-  - "1.9.3"
+  - "1.8.7"
