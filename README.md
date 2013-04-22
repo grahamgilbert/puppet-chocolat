@@ -1,6 +1,8 @@
 # Chocolat Puppet Module for Boxen
 
-Install [Chocolat](http://www.chocolatapp.com), a powerful text editor for Mac OS X.
+[![Build Status](https://travis-ci.org/grahamgilbert/puppet-chocolat.png?branch=master)](https://travis-ci.org/grahamgilbert/puppet-chocolat)
+
+Installs [Chocolat](http://www.chocolatapp.com), a powerful text editor for Mac OS X.
 
 ## Usage
 
