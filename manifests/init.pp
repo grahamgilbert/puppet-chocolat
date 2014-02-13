@@ -6,6 +6,6 @@
 class chocolat {
   package { 'Chocolat':
     provider => 'compressed_app',
-    source   => 'http://files.fileability.net/Chocolat_1.6.2.zip'
+    source   => 'http://files.fileability.net/Chocolat_2.2.zip'
   }
 }
